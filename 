@@ -1,0 +1,74 @@
+[33mcommit 2bffbb737aba13884c8dd98c2db142f82d8a7605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/sub[m[33m, [m[1;31morigin/develop[m[33m)[m
+Merge: 52fb5d3 00fa923
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:56:28 2026 +0900
+
+    Merge pull request #3 from vovoring/feature/sub
+    
+    Feature/sub
+
+[33mcommit 00fa92359798da162d5abb02958a9cb856f8e1c2[m[33m ([m[1;31morigin/feature/sub[m[33m)[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:54:48 2026 +0900
+
+    util기능 수정 (int -> float)
+
+[33mcommit b4290a14415ff54610d464ae9984107c8b60a4e6[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:52:46 2026 +0900
+
+    빼기 기능 추가
+
+[33mcommit 52fb5d306f5c07cfcae77d2a3eb1d4f9fbbfd2c9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/deploy[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 5679f61 c342034
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:46:06 2026 +0900
+
+    Merge pull request #2 from vovoring/tmp2
+    
+    Tmp2
+
+[33mcommit c3420348aab954580ae3e590fdd8b0886fd68435[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:44:48 2026 +0900
+
+    modify structure
+
+[33mcommit 82020d108acb701f6bb86ed851362d2049658f0e[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:42:48 2026 +0900
+
+    modify structure
+
+[33mcommit 5679f61f069f56e3709fc1296038bd2383e93f97[m
+Merge: 6ec7be3 61ab635
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:39:15 2026 +0900
+
+    Merge pull request #1 from vovoring/tmp2
+    
+    add util.py
+
+[33mcommit 61ab635dbc4a5486469c1186a53a1683b02be63d[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:35:07 2026 +0900
+
+    add util.py
+
+[33mcommit 6ec7be34f20c2a56d249959d6e3ec7094b1bdce5[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:23:19 2026 +0900
+
+    modify main.py
+
+[33mcommit 4637b813f9f5281ae170e8671ede1ce2eb8fbda2[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:19:23 2026 +0900
+
+    make main.py
+
+[33mcommit 5826554d02ec6617d9ca24beecf5e7a40136ace4[m
+Author: vovoring <skflskfl0304@gmail.com>
+Date:   Sat Oct 3 00:05:35 2026 +0900
+
+    Initial commit
